@@ -1,17 +1,17 @@
 - name: LOGO_THUMBNAIL
   value: '/brand-assets/logo_thumbnail.svg'
 - name: LOGO
-  value: '/brand-assets/logo.svg'
+  value: '/brand-assets/logo.png'
 - name: INSTALLATION_NAME
-  value: 'Chatwoot'
+  value: 'SAC Plus'
 - name: BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.sacplus.com.br'
 - name: WIDGET_BRAND_URL
-  value: 'https://www.chatwoot.com'
+  value: 'https://www.sacplus.com.br'
 - name: TERMS_URL
-  value: 'https://www.chatwoot.com/terms-of-service'
+  value: 'https://www.sacplus.com.br/terms-of-service'
 - name: PRIVACY_URL
-  value: 'https://www.chatwoot.com/privacy-policy'
+  value: 'https://www.sacplus.com.br/privacy-policy'
 - name: DISPLAY_MANIFEST
   value: true
 - name: MAILER_INBOUND_EMAIL_DOMAIN
@@ -21,4 +21,4 @@
 - name: CREATE_NEW_ACCOUNT_FROM_DASHBOARD
   value: false
 - name: BRAND_NAME
-  value: 'Chatwoot'
+  value: 'SAC Plus'
