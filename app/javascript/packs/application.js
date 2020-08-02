@@ -52,7 +52,7 @@ Object.keys(i18n).forEach(lang => {
   Vue.locale(lang, i18n[lang]);
 });
 
-Vue.config.lang = 'en';
+Vue.config.lang = 'pt_BR';
 sync(store, router);
 // load common helpers into js
 commonHelpers();
