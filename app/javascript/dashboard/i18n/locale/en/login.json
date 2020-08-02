@@ -1,12 +1,12 @@
 {
   "LOGIN": {
-    "TITLE": "Login to Chatwoot",
+    "TITLE": "Login to SAC Plus",
     "EMAIL": {
-      "LABEL": "Email",
+      "LABEL": "E-mail",
       "PLACEHOLDER": "Email eg: someone@example.com"
     },
     "PASSWORD": {
-      "LABEL": "Password",
+      "LABEL": "Senha",
       "PLACEHOLDER": "Password"
     },
     "API": {
