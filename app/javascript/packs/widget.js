@@ -9,7 +9,7 @@ import i18n from '../widget/i18n';
 Vue.use(VueI18n);
 Vue.use(Vuelidate);
 
-Vue.config.lang = 'en';
+Vue.config.lang = 'pt_BR';
 Object.keys(i18n).forEach(lang => {
   Vue.locale(lang, i18n[lang]);
 });
