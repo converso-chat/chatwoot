@@ -48,7 +48,7 @@ rvm autolibs disable
 rvm install "ruby-2.7.1"
 rvm use 2.7.1 --default
 
-git clone https://github.com/chatwoot/chatwoot.git
+git clone https://github.com/converso-chat/chatwoot.git
 cd chatwoot
 git checkout master
 bundle
